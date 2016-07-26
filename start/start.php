@@ -1,5 +1,9 @@
 <?php
 
+$basicPath = dirname(__FILE__);
+$patternSubPath = 'pattern';
+$testSubPath = 'test';
+
 /**
  * lädt eine Klasse falls noch nicht bekannt.
  * 
